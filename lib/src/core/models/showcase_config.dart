@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:walkthrux/core/enums/enums.dart';
+import 'package:walkthrux/src/core/enums/enums.dart';
 
 class ShowcaseConfig {
   final String id;
